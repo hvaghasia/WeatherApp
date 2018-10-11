@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.4.2",
+  "iOS" : [
+    {
+      "name" : "Aspects",
+      "hash" : "81fd4b2323eece411bdb2c2634f64cb3e9847ad5de4cc267303ccf21fefde256"
+    }
+  ]
+}

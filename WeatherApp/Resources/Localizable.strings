@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by admin on 11/10/18.
+  Copyright © 2018 Ugam. All rights reserved.
+*/
+
+"weather.screen.title" = "Weather";
